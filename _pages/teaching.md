@@ -7,15 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching: 
-
 ## DATA 35900: Responsible Use of Data and Algorithms
 
 Was the sole TA for DATA 35900, an PhD level course on differential privacy & Algorithmic Fairness
 
-# YouTube
-
-## The Science Biome
+## YouTube
 
 Welcome to **The Science Biome**, a YouTube channel where I explore fascinating topics in physics, mathematics, and cosmology. This channel is my way of expressing my creativity but also my joy for learning and teaching!
 
