@@ -22,11 +22,12 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+---
 
 Welcome to my personal website! I’m <strong>Smayan Khanna</strong>. I recently finished a BS in Physics with a Computer Science Minor at the <span style="color: maroon;">University of Chicago</span>.
 
 I am particularly interested in researching applications of AI for science, with a focus on Graph Nueral Networks.
----
+
 
 <!-- ---
 layout: about
