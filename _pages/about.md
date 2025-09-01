@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -19,15 +19,16 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! I’m <strong>Smayan Khanna</strong>. I recently finished a BS in Physics with a Computer Science Minor at the <span style="color: maroon;">University of Chicago</span> and I’ll be starting my M.S. in Computer Science here this fall.
+Welcome to my personal website! I recently completed a B.S. in Physics with a minor in Computer Science at the <span style="color: maroon;">University of Chicago</span>, and I am continuing here for my M.S. in Computer Science through the Advanced Scholars program.
 
-Broadly, my research interests lie in AI for science (AI4Science), with a current focus on graph learning methods. Previously, I was involved in Molecular Dynamics (MD) research and also computational neuroscience!
+My research interests lie in AI for science (AI4Science), with a focus on graph learning and representation learning. I’ve worked on problems spanning molecular dynamics, computational neuroscience, and graph neural networks for coarse-graining physical systems. More broadly, I’m interested in how machine learning methods can be made to generalize effectively in scientific domains.
 
+I’ve conducted research at MIT (with Prof. Jörn Dunkel), in UChicago’s Ferguson Lab (Pritzker School of Molecular Engineering), and currently with the Vitelli Group at the James Franck Institute.
 
 <!-- ---
 layout: about

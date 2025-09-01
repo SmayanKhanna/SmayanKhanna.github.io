@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Teaching Experiences and YouTube Channel
 nav: true
 nav_order: 6
@@ -9,7 +9,7 @@ nav_order: 6
 
 ## DATA 35900: Responsible Use of Data and Algorithms
 
-Was the sole TA for DATA 35900, an PhD level course on differential privacy & Algorithmic Fairness
+Was the sole TA for DATA 35900, an PhD level course on differential privacy & Algorithmic Fairness.
 
 ## YouTube
 
