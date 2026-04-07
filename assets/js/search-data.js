@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-overcoming-brain-fog-a-diary",
+        },{id: "post-random-thoughts-over-30-days",
         
-          title: "overcoming brain fog - a diary",
+          title: "random thoughts - over 30 days",
         
         description: "day by day unstructured reflections",
         section: "Posts",
