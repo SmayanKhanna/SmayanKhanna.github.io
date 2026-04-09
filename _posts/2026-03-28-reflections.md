@@ -43,5 +43,9 @@ Day 9. The goal today is to put a consistent and solid chunk of non-AI assisted 
 
 ## april 7th, 2026
 Day 10. Ok, I'm doing really badly on quizzes for my comp arch classes. I think my systems knowledge is really poor but more than anything, my good old friend test anxiety is really affecting my ability to think. Unfortunately, test anxiety is difficult to overcome. But I will conquer it - how? Well I think I need to tackle whats in front of me better in general. Where theres a problem, solve it. Coldly, mechanically. Frankly, what more can you do - thats the correct approach. Thinking about the outcome only makes it more likely to happen than actually just doing the work in front of you. Everyone has a different background and different preparation, we just have to do whats in front of us to the best of our capabilities.
+
+## april 8th, 2026
+Day 11. I feel like I've been less consistent but I've been hitting all days. I have a new ideas - every time I get an anxious, unproductive thought or enter a thought spiral, start the be-focused 30 minute timer and do an honest attempt at good work :D.
+
 ---
 
