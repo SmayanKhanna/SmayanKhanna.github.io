@@ -45,7 +45,17 @@ Day 9. The goal today is to put a consistent and solid chunk of non-AI assisted 
 Day 10. Ok, I'm doing really badly on quizzes for my comp arch classes. I think my systems knowledge is really poor but more than anything, my good old friend test anxiety is really affecting my ability to think. Unfortunately, test anxiety is difficult to overcome. But I will conquer it - how? Well I think I need to tackle whats in front of me better in general. Where theres a problem, solve it. Coldly, mechanically. Frankly, what more can you do - thats the correct approach. Thinking about the outcome only makes it more likely to happen than actually just doing the work in front of you. Everyone has a different background and different preparation, we just have to do whats in front of us to the best of our capabilities.
 
 ## april 8th, 2026
-Day 11. I feel like I've been less consistent but I've been hitting all days. I have a new ideas - every time I get an anxious, unproductive thought or enter a thought spiral, start the be-focused 30 minute timer and do an honest attempt at good work :D.
+Day 11. I feel like I've been less consistent but I've been hitting all days. I have a new ideas - every time I get an anxious, unproductive thought start the be-focused 30 minute timer and do an honest attempt at good work :D.
+
+## april 9th, 2026
+Day 12. Missed.
+
+## april 10th, 2026
+Day 13. Missed.
+
+## april 11th, 2026
+Day 14. As I would've imagined when I first started this whole mini-blogging thingy, I hit a slight slump. I've been decently productive and all, but again, feel like I'm missing a sense of direction with both my research and classes. This, tbh, comes more down to not ironing down good discplined habits and healthy thought patterns since motivation is a fleeting, finite and fickle resource (FFFs). Whats gone well this week? Well, I've restructured my habits to stop using YouTube, Reddit and Instagram. Instagram is harder, not because reels are addictive but its fun to see what reels my friends have sent me (so theres a social aspect to it, which makes it defensible but also dangerous imo - a lot of people get roped into instagram precisely because of this social cost). One tactic thats helped me with staving off bad things is to remind myself of the cost of doing said bad habit. For instance, I used to have a very small dose of Melatnonin (which is OTC btw) to help me sleep every night for a few months this summer for whatever reason. I realised that, unless needed, having Melatonin every night is at minimum unnecessary and at maximum damaging (you can read about the heart study which is online). Reminding myself about the cost of having it -> i.e. the unproven yet plausible links to heart disease has been maximally beneficial to me in essentially all but stopping it. The same applies to social media. The cost of social media usage is its ability to affect how you function cognitively. Who knows, maybe 20 years from now we'll find out that excessive social media use is strongly correlated with early-onset dementia etc (this is pure conjecture, but my point still stands). At the very minimum, you life a less rich life because your mental space is consumed by garbage material which propogate terrible societal beliefs and enable people to hide behind a shield of anonymity. Linkedin, btw, while useful, is potentially very very toxic as well and so I am conscious of limiting linkedin usage soon too.
+
 
 ---
 
