@@ -68,5 +68,23 @@ Day 17. Things are going better. I want to remind myself that positive change is
 
 ## april 15th, 2026
 Day 18. What thoughts do I have today? What's new that I have to offer? I feel like I could be productive in the morning maybe :D. Thats fine, an actionable step I will take is to turn all screens off at maybe 10:30PM or 11:00PM each night? I'll maybe come back to this note later if I have any life-changing thoughts though I doubt it. Right, I might at as well launch a scathing criticism against sugary caffinated drinks - THEY ARE SO GOOD. BUT SO BAD FOR YOU. Ugh. I am also revaluating my relationship with caffeine in general - I see a lot of conflicting opinions online about whether it hijacks your dopamingerstic (spelling sucks) system or whatever. Who cares tbh? Just do what you want, within reason. Andrew Huberman, suck it.
+
+## april 16th, 2026
+Day 19th. Missed.
+
+## april 17th, 2026
+Day 20th. Missed.
+
+## april 18th, 2026
+Day 21st. Missed.
+
+## april 19th, 2026
+Day 22nd. Missed.
+
+## april 20th, 2026
+Day 23rd. Missed.
+
+## april 21th, 2026
+Day... 24th? Whoops. Well, I've forgot to enter a blog post for the last couple of days. To be honest, I don't think much has changed. I've been pretty consistent (on aggregate that is) about staying of social media and am slowly but maybe hopefully surely making progress towards overcoming the brain fog I've been suffering. I still feel like its a pyyrhic victory in that not using social media has exposed gaps in time and habits which I really need to work on which has arguably made me feel worse at times. Irregardless, my steadfast conviction towards this goal remains. Algorithms influence us too much and I feel like absorbing other people's opinions via comment sections etc is an unhealthy pseudo-social habit which if anything degrades your capacity to think. I also look (very very) forward to graduating from UChicago and going back home for a bit :D. 
 ---
 
