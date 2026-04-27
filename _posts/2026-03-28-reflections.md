@@ -86,5 +86,20 @@ Day 23rd. Missed.
 
 ## april 21th, 2026
 Day... 24th? Whoops. Well, I've forgot to enter a blog post for the last couple of days. To be honest, I don't think much has changed. I've been pretty consistent (on aggregate that is) about staying of social media and am slowly but maybe hopefully surely making progress towards overcoming the brain fog I've been suffering. I still feel like its a pyyrhic victory in that not using social media has exposed gaps in time and habits which I really need to work on which has arguably made me feel worse at times. Irregardless, my steadfast conviction towards this goal remains. Algorithms influence us too much and I feel like absorbing other people's opinions via comment sections etc is an unhealthy pseudo-social habit which if anything degrades your capacity to think. I also look (very very) forward to graduating from UChicago and going back home for a bit :D. 
+
+## april 22nd, 2026
+Day 25th. Missed.
+
+## april 23rd, 2026
+Day 26th. Its my birthday!!!!!!! Yay! Putting that aside, I've been feeling extreme levels of boredom everyday. But I'd argue thats almost a good thing. Boredom is a catalyst for great things generally. Boredom is also almost a privilege nowadays - many people have many responsibilities and pressing things to do and really crave some time to themselves. Worst still, social media, news, TV and even worse things have occupied every non-busy moment in our lives and this hyper stimulation has, for lack of better words, fried our brains. Apparently, there was a time in history (in the UK) where doctors felt that boredom was a scourge and was tormenting society. Now its the opposite. Boredom is prescribed. Its a scarce resource. Its a cure for the seemingly incurable desire to be stimulated 24/7. Yet, in a world where the price of cheap entertainment has essentially hit 0, our attention-deprived brains naturally take the path of least resistance. How can you blame us, after all? Well, among the other things I've tried, I want to embrace boredom. In the few days of me doing so, I think its already led to small wins. My hunger to learn, to create interesting things and my long-lost creativity are finally coming back but I've been so used to being busy or stimulated constantly that its almost agonizing to have to deal with it. LET THE BOREDOM MOVEMENT CONTINUE.
+
+## april 24th, 2026
+Day 27th. Missed.
+
+## april 25th, 2026
+Day 28th. Missed.
+
+## april 26th, 2026
+Day 29th. The minute you open instagram or linkedin, you are exposed to reels, stories, posts, highlights of people's lives. No doubt, you also see "tips", "advice" and the infamous, "heres what a dinner with friends taught me about B2BSAAS" (this was an actual post). Guys. What the fuck are we doing here. This isn't healthy. We've hyper-sensationalized, hyper-compactified, hyper-gamified every FUCKING aspect of our lives. I can't help but feel this sucks out meaning in what we do on a day to day basis because we are always chasing this superior state of productivity, connectedness or whatever the fuck we are after. Your "lived experience" is computed by your own thoughts and experiences - if you take away what you want and what others do, whats left? I'd argue, the most important part. Because at the end of day, you have to live with yourself, in your own head, which is constantly swirling with hopefully intersting thoughts, curiosities, desires etc. I think we should all try to boil our experience in life to its most irreducible, purest parts which is where we can think for ourselves, have interests unpurturbed by some expecation of reward or performance. Social media can, and often does, add extra layers of junk to this irreducible core of your mind till its essentially unrecognizable. Congratulations, you are now a homogenized lump of others interests and worse still, others definition of success. MAXIMUM ENTROPY. Happiness, contentness lies in purity of thought which I'd argue occurs when your mind can take all the information around you without the bagguage it usually carries. 
 ---
 
