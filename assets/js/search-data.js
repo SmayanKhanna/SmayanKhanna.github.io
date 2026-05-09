@@ -45,6 +45,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2026/gratitude/";
+          
+        },
+      },{id: "post-random-thoughts-over-30-days",
+        
+          title: "random thoughts - over 30 days",
+        
+        description: "day by day unstructured reflections",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2026/reflections/";
           
         },
