@@ -37,26 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-random-thoughts-over-30-days",
+        },{id: "post-gratitude-journaling-over-30-days",
         
-          title: "random thoughts - over 30 days",
+          title: "gratitude journaling - over 30 days",
         
-        description: "day by day unstructured reflections",
+        description: "day by day gratitude reflections",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/gratitude/";
-          
-        },
-      },{id: "post-random-thoughts-over-30-days",
-        
-          title: "random thoughts - over 30 days",
-        
-        description: "day by day unstructured reflections",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/reflections/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
