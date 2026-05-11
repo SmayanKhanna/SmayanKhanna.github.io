@@ -28,4 +28,9 @@ Gratitude can span both material/seemingly trivial things and also go far deeper
 - I am grateful as always, to be able to go out to eat and not necessarily worry about the cost of the meal. The ability to taste, explore and sample cuisines, to gain knowledge about food that I didn't have earlier (through exploration) is a privelege and comes at a financial cost to many around the world. I am incredibly lucky to be able to bear that cost without undue stress (within reason). 
 - I am grateful for technology like Airpod pros (especially the 3s). To be able to seamlessly block out noise when neighbors are less than considerate is a privelege. 
 
+## may 10th, 2026
+Day 3. 
+
+- I am unironically grateful for VAR, without which Arsenal would have bottled the title this season. 
+
 ___
