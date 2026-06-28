@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Smayan A. Khanna",
-    "label": "MS Computer Science Student (UChicago)",
+    "label": "Incoming PhD Student in Data Science (UCSD) | MS Computer Science (UChicago)",
     "image": "",
     "email": "smayan@uchicago.edu",
     "url": "https://smayankhanna.github.io",
@@ -33,6 +33,16 @@
   },
   "education": [
     {
+      "institution": "University of California San Diego (UCSD)",
+      "location": "San Diego, CA",
+      "url": "https://ucsd.edu",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "area": "Data Science",
+      "startDate": "2026-09-01",
+      "endDate": "2031-06-01",
+      "summary": "Expected June 2031."
+    },
+    {
       "institution": "The University of Chicago",
       "location": "Chicago, IL",
       "url": "https://www.uchicago.edu",
@@ -40,7 +50,7 @@
       "area": "Computer Science",
       "startDate": "2025-09-01",
       "endDate": "2026-06-01",
-      "summary": "Advanced Scholars Program (4+1)."
+      "summary": "Advanced Scholars Program, GPA: 4.0/4.0."
     },
     {
       "institution": "The University of Chicago",
@@ -76,32 +86,22 @@
       "endDate": "Present",
       "summary": "Researching deep-learning techniques for representation learning in biological and physical systems; developed contrastive GNN-based methods and led a first-author project on scaling behavior of graph contrastive learning.",
       "highlights": [
-        "Developed a contrastive algorithm combining GNNs with statistical-physics ideas to coarse-grain inhomogeneous graph data",
-        "Led first-author study on effectiveness and scaling behavior of Graph Contrastive Learning (GCL) for unsupervised graph classification"
+        "Researching deep-learning techniques for representation learning in biological and physical systems",
+        "Developed a contrastive algorithm using Graph Neural Networks (GNNs) and statistical physics techniques to optimally coarse-grain inhomogeneous graph data",
+        "Led a first-author research project analyzing the effectiveness and scaling behavior of Graph Contrastive Learning (GCL) for unsupervised graph classification"
       ]
     },
     {
-      "name": "Motilal Oswal Financial Services (MOFSL), AlphaGen",
-      "position": "Data Science Intern - Stock Prediction Model Development",
-      "location": "Mumbai, India",
-      "startDate": "2024-06-01",
-      "endDate": "2024-08-01",
-      "summary": "Built ML pipelines for short-term stock prediction, feature selection, and backtesting.",
-      "highlights": [
-        "Implemented PCA + RFE pipeline for dimensionality reduction and feature selection",
-        "Built backtesting framework (~60% prediction accuracy) and explored hyperparameter optimization (Random + Bayesian search)"
-      ]
-    },
-    {
-      "name": "Massachusetts Institute of Technology (MIT), Dunkel Group (with the Flavell Lab)",
+      "name": "Massachusetts Institute of Technology (MIT), Dunkel Group",
       "position": "Undergraduate Research Intern",
       "location": "Cambridge, MA",
       "startDate": "2023-06-01",
       "endDate": "2023-08-01",
-      "summary": "Studied the brain–behavior link in C. elegans; built Julia tooling for analysis/visualization and applied PCA, graph theory, and compressed sensing.",
+      "summary": "Conducted research with Prof. Jörn Dunkel and the Flavell Lab on the mathematical brain-behavior link in C. elegans.",
       "highlights": [
-        "Developed a Julia pipeline for analysis and visualization of neural trace activity datasets",
-        "Used Matching Pursuit to identify a superior basis for time-series reconstruction, improving accuracy by ~20% vs random bases"
+        "Developed a Julia pipeline which facilitated the analysis and visualization of neural trace activity datasets",
+        "Applied PCA, graph theory, and compressed sensing in Julia for dimensionality reduction of neural circuits",
+        "Identified a superior neural basis for the signal reconstruction of timeseries data using Matching Pursuit, outperforming randomly sampled bases by ~20% reconstruction accuracy"
       ]
     },
     {
@@ -112,8 +112,8 @@
       "endDate": "2024-06-01",
       "summary": "Co-developed generative backmapping models for proteins/DNA using Conditional Flow Matching and EGNNs; optimized inference and evaluated ODE solvers.",
       "highlights": [
-        "Trained and fine-tuned generative models on DNA–protein structures",
-        "Optimized inference by evaluating ODE solvers; achieved >99% reconstruction accuracy"
+        "Co-developed a generative model using Conditional Flow Matching and Equivariant Graph Neural Networks (EGNNs) to back-map protein and DNA traces from coarse-grained simulations",
+        "Trained and fine-tuned the model on DNA-protein structures, optimizing inference time by evaluating different ODE solvers and achieving over 99% reconstruction accuracy, outperforming previous models by 3%"
       ]
     },
     {
@@ -265,7 +265,6 @@
         "PyTorch Geometric",
         "HuggingFace Transformers",
         "Scikit-learn",
-        "Pandas",
         "TensorFlow",
         "NumPy"
       ]
