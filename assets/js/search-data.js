@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-random-thoughts-over-30-days",
+        },{id: "post-more-unstructured-thoughts-pomodoro-edition",
+        
+          title: "more unstructured thoughts - pomodoro edition",
+        
+        description: "continuing the unstructured reflections",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/reflections-2/";
+          
+        },
+      },{id: "post-random-thoughts-over-30-days",
         
           title: "random thoughts - over 30 days",
         
@@ -126,13 +137,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-graduated-from-uchicago",
+          title: 'I graduated from UChicago!',
+          description: "",
+          section: "News",},{id: "news-graduated-from-the-mpcs-master-39-s-program-in-computer-science-at-uchicago",
+          title: 'Graduated from the MPCS Master&amp;#39;s Program in Computer Science at UChicago',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-graduated-from-uchicago",
-          title: 'I graduated from UChicago!',
+            },},{id: "news-i-m-starting-my-phd-in-data-science-at-uc-san-diego-ucsd-this-fall",
+          title: 'I’m starting my PhD in Data Science at UC San Diego (UCSD) this...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
