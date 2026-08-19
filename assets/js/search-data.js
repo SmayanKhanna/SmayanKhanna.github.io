@@ -134,10 +134,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-i-graduated-from-uchicago",
+            },},{id: "news-i-graduated-from-uchicago",
           title: 'I graduated from UChicago!',
           description: "",
           section: "News",},{id: "news-graduated-from-the-mpcs-master-39-s-program-in-computer-science-at-uchicago",
