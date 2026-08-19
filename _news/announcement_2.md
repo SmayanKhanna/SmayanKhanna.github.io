@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-I've graduated from the Master of Science in Computer Science (MPCS) program at the University of Chicago. Please contact me on email me if you're curious to hear my experience and my opinion on the program.
+I've graduated from the Master of Science in Computer Science (MPCS) program at the University of Chicago. Please contact me on email if you're curious to hear my experience with the program.
