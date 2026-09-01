@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! I recently completed a B.S. in Physics with a minor in Computer Science at the <a href="https://www.uchicago.edu/en">University of Chicago</a>, and I am continuing here for my M.S. in Computer Science through the Advanced Scholars program.
+Welcome to my personal website! I completed my B.S. in Physics with a minor in Computer Science and my M.S. in Computer Science at the <a href="https://www.uchicago.edu/en">University of Chicago</a>, and I’m starting my Ph.D. in Data Science at <a href="https://ucsd.edu">UC San Diego</a> this fall.
 
 My research interests lie in AI for science (AI4Science), with a focus on graph learning and representation learning. I’ve worked on problems spanning molecular dynamics, computational neuroscience, and graph neural networks for coarse-graining physical systems. More broadly, I’m interested in how machine learning methods can be made to generalize effectively in scientific domains.
 
-I’ve conducted research at MIT (with <a href="https://math.mit.edu/~dunkel/">Prof. Jörn Dunkel</a>), in UChicago’s <a href="https://www.ferglab.comFerguson">Ferguson Lab</a> (Pritzker School of Molecular Engineering), and currently with the <a href="https://home.uchicago.edu/~vitelli/index.html"> Vitelli Group</a> at the James Franck Institute.
+I’ve conducted research at MIT (with <a href="https://math.mit.edu/~dunkel/">Prof. Jörn Dunkel</a>), in UChicago’s <a href="https://www.ferglab.com">Ferguson Lab</a> (Pritzker School of Molecular Engineering), and most recently with the <a href="https://home.uchicago.edu/~vitelli/index.html">Vitelli Group</a> at the James Franck Institute.
 
 <!-- ---
 layout: about
